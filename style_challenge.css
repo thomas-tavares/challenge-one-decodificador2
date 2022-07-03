@@ -1,0 +1,23 @@
+body{
+	background: #F3F5FC;
+}
+#logo{
+	display: block;
+	vertical-align: top;
+	padding: 1%;
+}
+.ajuste{
+	vertical-align: bottom;
+	display: inline;
+	width: 50%;
+	margin-bottom: 1%
+}
+
+#man{
+	width: 15%
+}
+.button{
+	display: inline-block;
+	width: 25%;
+
+}
